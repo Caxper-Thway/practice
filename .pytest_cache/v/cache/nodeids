@@ -1,0 +1,6 @@
+[
+  "test_lab2.py::test_calc_average",
+  "test_lab2.py::test_calc_median",
+  "test_lab2.py::test_find_min_max",
+  "test_lab2.py::test_min_max"
+]

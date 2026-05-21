@@ -22,6 +22,8 @@ def display_main_menu():
 def calc_average(num_list):
     avg = sum(num_list)/len(num_list)
     print(f"Average: {avg}")
+
+    return avg
           
 def get_user_input():
     userInput = input().split(",")
